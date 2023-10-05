@@ -1,1 +1,1 @@
-# methawat.github.io
+# Simple Digital Clock with JavaScript
